@@ -7,7 +7,6 @@ struct MainView: View {
         NavigationView {
             VStack {
                 
-                
                 if viewModel.isLoading {
                     if #available(iOS 14, *) {
                             ProgressView("Loading Cocktails...")
