@@ -43,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D79197FF2D2083BA00B4EE0A /* CocktailsAPI */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = CocktailsAPI; sourceTree = "<group>"; };
 		D7E301C92D206958001CAAB9 /* Cocktail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cocktail.swift; sourceTree = "<group>"; };
 		D7E301CB2D20696A001CAAB9 /* CocktailService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailService.swift; sourceTree = "<group>"; };
 		D7E301CD2D20697A001CAAB9 /* CocktailServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailServiceProtocol.swift; sourceTree = "<group>"; };
@@ -138,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				D7E301DF2D206EEC001CAAB9 /* CocktailsAPI */,
+				D79197FF2D2083BA00B4EE0A /* CocktailsAPI */,
 			);
 			name = Packages;
 			sourceTree = "<group>";
